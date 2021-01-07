@@ -1,1 +1,1 @@
-# maven-exercise
+# maven-Stringutils
