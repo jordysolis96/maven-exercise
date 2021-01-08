@@ -12,7 +12,7 @@ public class Exercise {
         }else{
             System.out.println("\"" + string + "\"" + " is not a number");
         }
-        System.out.println(StringUtils.capitalize(string));
+        System.out.println(StringUtils.swapCase(string));
         System.out.println(StringUtils.reverse(string));
     }
 }
